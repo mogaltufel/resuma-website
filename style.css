@@ -1,0 +1,81 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+    margin: 40px;
+}
+
+/* Title Styling */
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+/* Contact Information */
+.contact-info {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.contact-info p {
+    font-size: 1.1em;
+    margin: 5px 0;
+}
+
+/* Section Styling */
+.section {
+    margin-bottom: 30px;
+}
+
+.section-title {
+    font-size: 1.4em;
+    color: #2c3e50;
+    border-bottom: 2px solid #2c3e50;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+h3, h4 {
+    color: #34495e;
+}
+
+/* Project and Responsibilities List */
+.responsibilities ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+.responsibilities li {
+    margin-bottom: 10px;
+}
+
+/* Personal Details */
+.personal-details p {
+    margin: 5px 0;
+}
+
+/* Footer Declaration */
+footer {
+    text-align: center;
+    font-size: 1em;
+    margin-top: 40px;
+    color: #7f8c8d;
+}
+
+/* Container for the entire content */
+.content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
